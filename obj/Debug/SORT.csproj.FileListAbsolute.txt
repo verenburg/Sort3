@@ -1,0 +1,6 @@
+C:\Users\Славв\source\repos\SORT\SORT\bin\Debug\SORT.exe.config
+C:\Users\Славв\source\repos\SORT\SORT\bin\Debug\SORT.exe
+C:\Users\Славв\source\repos\SORT\SORT\bin\Debug\SORT.pdb
+C:\Users\Славв\source\repos\SORT\SORT\obj\Debug\SORT.csprojAssemblyReference.cache
+C:\Users\Славв\source\repos\SORT\SORT\obj\Debug\SORT.exe
+C:\Users\Славв\source\repos\SORT\SORT\obj\Debug\SORT.pdb
